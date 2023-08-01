@@ -52,3 +52,4 @@ E:\MY_COURSE\C#adoTrain\important\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-win
 E:\MY_COURSE\C#adoTrain\important\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.pdb
 E:\MY_COURSE\C#adoTrain\important\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.genruntimeconfig.cache
 E:\MY_COURSE\C#adoTrain\important\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\ref\WinFormsApp2.dll
+E:\MY_COURSE\C#adoTrain\important\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.RetrieveDataSet.resources

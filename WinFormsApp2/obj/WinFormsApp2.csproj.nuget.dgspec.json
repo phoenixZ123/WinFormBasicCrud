@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\MY_COURSE\\C#adoTrain\\important\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj": {}
+    "E:\\MY_COURSE\\C#adoTrain\\crudFirstwindowForm\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj": {}
   },
   "projects": {
-    "E:\\MY_COURSE\\C#adoTrain\\important\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj": {
+    "E:\\MY_COURSE\\C#adoTrain\\crudFirstwindowForm\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\MY_COURSE\\C#adoTrain\\important\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj",
+        "projectUniqueName": "E:\\MY_COURSE\\C#adoTrain\\crudFirstwindowForm\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj",
         "projectName": "WinFormsApp2",
-        "projectPath": "E:\\MY_COURSE\\C#adoTrain\\important\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj",
+        "projectPath": "E:\\MY_COURSE\\C#adoTrain\\crudFirstwindowForm\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "E:\\MY_COURSE\\C#adoTrain\\important\\WinFormsApp2\\WinFormsApp2\\obj\\",
+        "outputPath": "E:\\MY_COURSE\\C#adoTrain\\crudFirstwindowForm\\WinFormsApp2\\WinFormsApp2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",

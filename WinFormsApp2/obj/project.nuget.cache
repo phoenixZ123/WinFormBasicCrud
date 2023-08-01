@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mUJMqyZ5+/sGb++4NKjiG0lSivf9zCWvcSWjrbRr2n0v5QfFvoTnauczYl699+XLxnzK8n2JHKRYDhCT2wCmxw==",
+  "dgSpecHash": "lk8ud8l17uIUQBDmoqHysGJgwsXOTkHsMsnhdo+TIcnoasjHGIx0sp2o7reaqcaUa7s844rF/aOoiknPxnqNdw==",
   "success": true,
-  "projectFilePath": "E:\\MY_COURSE\\C#adoTrain\\important\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj",
+  "projectFilePath": "E:\\MY_COURSE\\C#adoTrain\\crudFirstwindowForm\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

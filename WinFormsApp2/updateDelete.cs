@@ -43,6 +43,7 @@ namespace WinFormsApp2
 
         private void btnDisplay_Click(object sender, EventArgs e)
         {
+            //retrieve 
             SqlConnection conn = new SqlConnection(@"Data Source=localhost;Initial Catalog=master;User ID=sa;Password=ComplexPassword123!;Connect Timeout=30;Encrypt=False;");
             conn.Open();
             string display = "select * from Customer";
@@ -67,6 +68,18 @@ namespace WinFormsApp2
             cmd.ExecuteNonQuery();
             conn.Close();
             MessageBox.Show("saved your information");
+        }
+
+        private void btnCount_Click(object sender, EventArgs e)
+        {
+            SqlConnection conn = new SqlConnection(@"Data Source=localhost;Initial Catalog=master;User ID=sa;Password=ComplexPassword123!;Connect Timeout=30;Encrypt=False;");
+            conn.Open();
+            SqlCommand cmd = new SqlCommand("select count(*) from Customer", conn);
+            int count = (int)cmd.ExecuteScalar();
+
+            conn.Close();
+            MessageBox.Show("total number of customer = " + count);
+
         }
     }
 }
